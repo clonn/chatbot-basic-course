@@ -1,3 +1,4 @@
-# My Awesome Book
+# Chatbot & eCommerce 課程內容
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本資料為節錄 Chatbot & eCommerce 課程內容及實做內容為主
+
