@@ -2,39 +2,70 @@
 
 ---
 
-!\[\]\([https://i.imgur.com/z6RM7Gd.png\](https://i.imgur.com/z6RM7Gd.png\)\)
+![](https://i.imgur.com/z6RM7Gd.png)
 
-[https://chatfuel.com/](https://chatfuel.com/)
-
----
-
-!\[\]\([https://i.imgur.com/ai92Jbx.png\](https://i.imgur.com/ai92Jbx.png\)\)
-
-Login or Signup
+　* https://chatfuel.com/
 
 ---
 
-!\[\]\([https://i.imgur.com/hi6dKZx.png\](https://i.imgur.com/hi6dKZx.png\)\)
+## Login / Signup
+
+![](https://i.imgur.com/ai92Jbx.png)
+
+![](https://i.imgur.com/hi6dKZx.png)
+
+---
+---
+
+## 基本設定流程
+
+![](https://i.imgur.com/EtdlkkZ.png)
+
+![](https://i.imgur.com/5DQKwWb.png)
+
+![](https://i.imgur.com/u0mYqLI.png)
+
+![](https://i.imgur.com/D6gqeZu.png)
+
+![](https://i.imgur.com/h6K7fet.png)
+
+![](https://i.imgur.com/8Au2yzx.png)
 
 ---
 
-\#\# build flow
+## 設定完成畫面
 
-!\[\]\([https://i.imgur.com/EtdlkkZ.png\](https://i.imgur.com/EtdlkkZ.png\)\)
+![](https://i.imgur.com/AjB4IIw.png)
+
+![](https://i.imgur.com/njY2VsU.png)
+
+### 設定營業時間
+
+![](https://i.imgur.com/6tXN0ry.png)
+
+### 官方網站查詢
+
+![](https://i.imgur.com/FCxP7CW.png)
+
+### 推薦優惠商品
+
+![](https://i.imgur.com/lTXX6gO.png)
+
+### 優惠資訊
+
+![](https://i.imgur.com/c0I7rYu.png)
+
+### 優惠資訊
+
+最後可加上 Quick reply 讓使用者進入查詢循環
+
+![](https://i.imgur.com/mmCRRWq.png)
+
+
 
 ---
 
-[https://s-media-cache-ak0.pinimg.com/originals/93/d1/31/93d131608d2db281404230e53c49695f.png](https://s-media-cache-ak0.pinimg.com/originals/93/d1/31/93d131608d2db281404230e53c49695f.png)
-
-!\[\]\([https://i.imgur.com/PUUG5tw.png\](https://i.imgur.com/PUUG5tw.png\)\)
-
----
-
-!\[\]\([https://i.imgur.com/l7MppDK.png\](https://i.imgur.com/l7MppDK.png\)\)
-
----
-
-\#\# Broadcasting
+## Broadcasting
 
 在側邊欄位中，提供了 Broadcast 功能，裡面的設定 «Send Now»»，可以讓你立即發送給所有的機器人用戶消息。
 
@@ -46,23 +77,12 @@ Login or Signup
 
 ---
 
-\#\# 使用者流程思考
+## 使用者流程思考
+* 使用者以往都怎麼用網站
+* 使用者都詢問客服哪些問題
+* 使用者都從哪裡進行訂單下訂
+* 使用者都從哪裡開始瀏覽
 
-\* 使用者以往都怎麼用網站
-
-\* 使用者都詢問客服哪些問題
-
-\* 使用者都從哪裡進行訂單下訂
-
-\* 使用者都從哪裡開始瀏覽
-
----
-
-[https://s-media-cache-ak0.pinimg.com/originals/93/d1/31/93d131608d2db281404230e53c49695f.png](https://s-media-cache-ak0.pinimg.com/originals/93/d1/31/93d131608d2db281404230e53c49695f.png)
-
-!\[\]\([https://i.imgur.com/PUUG5tw.png\](https://i.imgur.com/PUUG5tw.png\)\)
-
----
-
+![](https://i.imgur.com/PUUG5tw.png)
 
 
