@@ -1,3 +1,6 @@
-# Table of content
+# Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [課程前置作業](chapter1.md)
+* 開設 FB Fans page
+
